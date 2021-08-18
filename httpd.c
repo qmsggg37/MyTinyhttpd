@@ -139,6 +139,5 @@ void accept_request(void *arg)
         j++;
     }
 
-    
-    
+    // TODO 20210817
 }
